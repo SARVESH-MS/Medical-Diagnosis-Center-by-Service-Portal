@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="">ab594a89c3530f5008707b2ed40131d8</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-11 15:10:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6b698e89c3530f5008707b2ed4013100</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ab594a89c3530f5008707b2ed40131d8</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Medical Diagnosis Center" source="x_2133504_medica_0">53877ea4c3d70b5008707b2ed4013119</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Medical Diagnosis Center">53877ea4c3d70b5008707b2ed4013119</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_6b698e89c3530f5008707b2ed4013100</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-11 15:10:43</sys_updated_on>
+        <tab display_value="New Tab 1">e3694e89c3530f5008707b2ed40131f0</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>
